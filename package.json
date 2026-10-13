@@ -1,0 +1,7 @@
+{
+  "name": "samved-trip-explores",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": { "dev": "vite", "build": "vite", "preview": "vite preview" },
+  "devDependencies": { "vite": "^6.1.0" }
+}

@@ -1,0 +1,176 @@
+{
+  "requested": 186,
+  "downloaded": 169,
+  "failed": [
+    {
+      "district": "Ballari",
+      "spot": "Hampi circuit",
+      "reason": "No matching licensed photograph found after exact-place and district searches"
+    },
+    {
+      "district": "Ballari",
+      "spot": "Tungabhadra riverside",
+      "reason": "No matching licensed photograph found after exact-place and district searches"
+    },
+    {
+      "district": "Belagavi",
+      "spot": "Vajrapoha Falls",
+      "reason": "No matching licensed photograph found after exact-place and district searches"
+    },
+    {
+      "district": "Belagavi",
+      "spot": "Jamboti Hills",
+      "reason": "No matching licensed photograph found after exact-place and district searches"
+    },
+    {
+      "district": "Bengaluru Rural",
+      "spot": "Nandi foothills",
+      "reason": "No matching licensed photograph found after exact-place and district searches"
+    },
+    {
+      "district": "Bengaluru Rural",
+      "spot": "Devanahalli vineyards",
+      "reason": "No matching licensed photograph found after exact-place and district searches"
+    },
+    {
+      "district": "Bengaluru South",
+      "spot": "Ramanagara rockscape",
+      "reason": "No matching licensed photograph found after exact-place and district searches"
+    },
+    {
+      "district": "Bidar",
+      "spot": "Narasimha Jhira Cave Temple",
+      "reason": "No matching licensed photograph found after exact-place and district searches"
+    },
+    {
+      "district": "Bidar",
+      "spot": "Bidar Range",
+      "reason": "No matching licensed photograph found after exact-place and district searches"
+    },
+    {
+      "district": "Chamarajanagar",
+      "spot": "Sathyamangala forest edge",
+      "reason": "No matching licensed photograph found after exact-place and district searches"
+    },
+    {
+      "district": "Chikkamagaluru",
+      "spot": "coffee estate trails",
+      "reason": "No matching licensed photograph found after exact-place and district searches"
+    },
+    {
+      "district": "Chitradurga",
+      "spot": "Aadumalleswara Temple",
+      "reason": "No matching licensed photograph found after exact-place and district searches"
+    },
+    {
+      "district": "Davanagere",
+      "spot": "Kunduvada Lake",
+      "reason": "No matching licensed photograph found after exact-place and district searches"
+    },
+    {
+      "district": "Davanagere",
+      "spot": "Bagali Keshava Temple",
+      "reason": "No matching licensed photograph found after exact-place and district searches"
+    },
+    {
+      "district": "Davanagere",
+      "spot": "Uchangidurga Fort",
+      "reason": "No matching licensed photograph found after exact-place and district searches"
+    },
+    {
+      "district": "Dharwad",
+      "spot": "Dharwad old town",
+      "reason": "No matching licensed photograph found after exact-place and district searches"
+    },
+    {
+      "district": "Dharwad",
+      "spot": "local music heritage",
+      "reason": "No matching licensed photograph found after exact-place and district searches"
+    },
+    {
+      "district": "Dharwad",
+      "spot": "Sadhanakeri",
+      "reason": "No matching licensed photograph found after exact-place and district searches"
+    },
+    {
+      "district": "Dharwad",
+      "spot": "Dharwad Peda trail",
+      "reason": "No matching licensed photograph found after exact-place and district searches"
+    },
+    {
+      "district": "Gadag",
+      "spot": "Kappat Gudda",
+      "reason": "No matching licensed photograph found after exact-place and district searches"
+    },
+    {
+      "district": "Haveri",
+      "spot": "Ranebennur Blackbuck Sanctuary",
+      "reason": "No matching licensed photograph found after exact-place and district searches"
+    },
+    {
+      "district": "Kalaburagi",
+      "spot": "Chandrampalli Dam",
+      "reason": "No matching licensed photograph found after exact-place and district searches"
+    },
+    {
+      "district": "Kodagu",
+      "spot": "Nagarhole edge",
+      "reason": "No matching licensed photograph found after exact-place and district searches"
+    },
+    {
+      "district": "Raichur",
+      "spot": "Anegundi region",
+      "reason": "No matching licensed photograph found after exact-place and district searches"
+    },
+    {
+      "district": "Raichur",
+      "spot": "Krishna\u2013Tungabhadra confluence",
+      "reason": "No matching licensed photograph found after exact-place and district searches"
+    },
+    {
+      "district": "Raichur",
+      "spot": "Maski Ashokan edict",
+      "reason": "No matching licensed photograph found after exact-place and district searches"
+    },
+    {
+      "district": "Raichur",
+      "spot": "Jaladurga Fort",
+      "reason": "No matching licensed photograph found after exact-place and district searches"
+    },
+    {
+      "district": "Tumakuru",
+      "spot": "Pavagada Fort",
+      "reason": "No matching licensed photograph found after exact-place and district searches"
+    },
+    {
+      "district": "Tumakuru",
+      "spot": "Goravanahalli Mahalakshmi Temple",
+      "reason": "No matching licensed photograph found after exact-place and district searches"
+    },
+    {
+      "district": "Uttara Kannada",
+      "spot": "Kumta coast",
+      "reason": "No matching licensed photograph found after exact-place and district searches"
+    },
+    {
+      "district": "Vijayapura",
+      "spot": "Upli Buruj",
+      "reason": "No matching licensed photograph found after exact-place and district searches"
+    },
+    {
+      "district": "Yadgiri",
+      "spot": "sleeping Buddha hill",
+      "reason": "No matching licensed photograph found after exact-place and district searches"
+    },
+    {
+      "district": "Yadgiri",
+      "spot": "Shorapur Fort",
+      "reason": "No matching licensed photograph found after exact-place and district searches"
+    },
+    {
+      "district": "Yadgiri",
+      "spot": "Wagangera Fort",
+      "reason": "No matching licensed photograph found after exact-place and district searches"
+    }
+  ]
+}
